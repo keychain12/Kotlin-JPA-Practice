@@ -8,15 +8,15 @@
 
 백엔드
 
-Kotlin
-Spring boot
-Spring Data JPA
+- Kotlin
+- Spring boot
+- Spring Data JPA
 
 Build tool
--Gradle
+- Gradle
 
 Database
--Oracle
+- Oracle
 
 프론트엔드
--jsp
+- jsp
